@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path=".github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/App.Api/App.Api.csproj" />
+    <Project Path="src/App.Business/App.Business.csproj" />
+    <Project Path="src/App.DataAccess/App.DataAccess.csproj" />
+    <Project Path="src/App.Domain/App.Domain.csproj" />
+    <Project Path="src/App.Infrastructure/App.Infrastructure.csproj" />
+    <Project Path="src/App.Shared/App.Shared.csproj" />
+  </Folder>
+</Solution>
